@@ -1,1 +1,1 @@
-# CRUD applicatio in a mern stack.
+# CRUD application in a mern stack.
